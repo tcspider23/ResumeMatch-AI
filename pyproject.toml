@@ -1,4 +1,14 @@
 [project]
 name = "resumematch-ai"
 version = "1.0.0"
-requires-python = ">=3.11,<3.15"
+requires-python = ">=3.12,<3.15"
+
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "python-multipart",
+    "scikit-learn",
+    "pypdf",
+    "pdfplumber",
+    "python-docx"
+]
