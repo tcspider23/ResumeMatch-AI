@@ -1,0 +1,32 @@
+PRIYA SHARMA
+Data Analyst | Python | SQL | Power BI | Excel
+Mumbai, India
+
+PROFESSIONAL SUMMARY
+Entry-level Data Analyst with knowledge of Python, SQL, Excel, Power BI, Pandas,
+NumPy and statistics. Experienced in data cleaning, exploratory data analysis,
+dashboard development and communicating business insights.
+
+TECHNICAL SKILLS
+Python, SQL, Pandas, NumPy, Scikit-learn, Excel, Power BI, Tableau, Statistics,
+Data Analysis, Data Visualization, Machine Learning, MySQL, Git, Communication,
+Problem Solving, Teamwork.
+
+PROJECTS
+Sales Performance Dashboard — Power BI
+Created an interactive Power BI dashboard to analyze sales, revenue, regional
+performance and product trends. Cleaned data and generated KPIs.
+
+Customer Churn Analysis — Python
+Performed preprocessing and exploratory analysis using Python, Pandas and NumPy.
+Used statistics and machine learning techniques to identify churn factors.
+
+E-commerce SQL Analysis
+Used SQL joins, aggregations, subqueries and window functions to analyze orders,
+revenue and product performance.
+
+EDUCATION
+BCA — Sample University | 2021–2024
+
+SOFT SKILLS
+Communication, Problem Solving, Teamwork, Leadership, Analytical Thinking

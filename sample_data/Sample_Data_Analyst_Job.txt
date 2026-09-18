@@ -1,0 +1,16 @@
+We are looking for a Junior Data Scientist to join our analytics team.
+
+The candidate should have strong knowledge of Python, SQL, Pandas, NumPy,
+Scikit-learn, Machine Learning, Statistics and Data Analysis.
+
+Responsibilities include collecting and cleaning datasets, performing
+exploratory data analysis, building machine learning models, evaluating model
+performance, and communicating data-driven insights.
+
+Experience with TensorFlow, Tableau, Power BI, NLP and Deep Learning is preferred.
+
+The candidate should have strong analytical thinking, problem-solving,
+communication and teamwork skills.
+
+A bachelor's or master's degree in Computer Science, Data Science, Statistics
+or a related field is preferred.
