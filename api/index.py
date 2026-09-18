@@ -10,6 +10,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 app = FastAPI(title="ResumeMatch AI API", version="2.0.0")
+@app.get("/", include_in_schema=False)
+async def home():
+    return FileResponse(INDEX_FILE)
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
 BASE_DIR = Path(__file__).resolve().parent.parent
